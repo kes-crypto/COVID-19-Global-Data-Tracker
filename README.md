@@ -1,5 +1,4 @@
-# ------------
-"""
+
 # COVID-19 Global Data Tracker
 
 A Python-based data analysis project to visualize and explore global COVID-19 trends.
@@ -42,4 +41,4 @@ covid19-global-data-tracker/
 
 ## 📜 License
 MIT
-"""
+
